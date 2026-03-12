@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/REPOSITORY/static/css/main.9ae61dcd.css",
+    "main.js": "/REPOSITORY/static/js/main.4b69e595.js",
+    "index.html": "/REPOSITORY/index.html",
+    "main.9ae61dcd.css.map": "/REPOSITORY/static/css/main.9ae61dcd.css.map",
+    "main.4b69e595.js.map": "/REPOSITORY/static/js/main.4b69e595.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ae61dcd.css",
+    "static/js/main.4b69e595.js"
+  ]
+}
